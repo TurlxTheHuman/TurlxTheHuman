@@ -13,7 +13,6 @@ Multiple Discord Bots:
 Proxy Scapers
 Proxy Checkers
 Firewalls
-DDOS Attack Detection And Mitigation Scripts
 
 ## ⚡️ Experience
 
