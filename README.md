@@ -6,12 +6,7 @@ Small Developer, Most Projects Are Made From Boredom.
 
 I'm currently working on:
 
-Multiple Discord Bots: <br>
-	Droplet BeamMP Hosting Bot (Released, Not Done) <br>
-	Droplet VPN Manager/Status Bot (halfway done) <br>
-Proxy Scapers <br>
-Proxy Checkers <br>
-Firewalls <br>
+NODEJS Terminal Based Chat Application
 
 ## ⚡️ Experience
 
