@@ -6,7 +6,7 @@ Small Developer, Most Projects Are Made From Boredom.
 
 I'm currently working on:
 
-NODEJS Terminal Based Chat Application
+- NODEJS Terminal Based Chat Application
 
 ## ⚡️ Experience
 
