@@ -6,7 +6,7 @@ Small Developer, Most Projects Are Made From Boredom.
 
 I'm currently working on:
 
-- NODEJS Terminal Based Chat Application
+- IPMIFan, NodeJS Based Fan Controller (used on my poweredge servers)
 - Dropnode Hosting Solutions, A Game Hosting Company
 
 ## ⚡️ Experience
