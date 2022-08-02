@@ -11,7 +11,7 @@ I'm currently working on:
 
 ## ⚡️ Experience
 
-I do most of this for fun, and because I have nothing else better to do. I got OK PHP experience from writing login/registration database APIs and did a few others. Most of my NodeJS Projects are for discord bots or proxy stuff. I DO NOT enjoy doing frontend web development XD.
+I do most of this for fun, and because I have nothing else better to do. I got OK PHP experience from writing login/registration database APIs and did a few others. Most of my NodeJS Projects are for discord bots.
 
 
 ## Languages & Softwares
