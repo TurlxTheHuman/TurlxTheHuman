@@ -51,8 +51,6 @@ Zcash: t1KdvhZGnnVqd7sM4VTYyGSXjwwg3ziDKyM
 
 ## Github Statistics
 
-![Visitors](https://komarev.com/ghpvc/?username=TurlxTheHuman&color=1a1b27&style=plastic)
-
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurlxTheHuman&theme=tokyonight&langs_count=4?exclude_repo=discord-file-webhook-upload&layout=compact)
 
 ![ReadMe](https://github-readme-stats.vercel.app/api?username=TurlxTheHuman&show_icons=true&theme=tokyonight&layout=compact)
