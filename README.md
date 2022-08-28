@@ -23,7 +23,3 @@ You can also contact me through my discord server, [Server Invite](https://disco
 ![](https://github-readme-stats.vercel.app/api?username=TurlxTheHuman&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TurlxTheHuman&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TurlxTheHuman&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=TurlxTheHuman&icon=0&color=1)](https://visitcount.itsvg.in)
-
