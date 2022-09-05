@@ -2,6 +2,8 @@
 
 Small Developer, Most Projects Are Made From Boredom.
 
+"im gonna finish my project this time"
+
 ## 🔭 Current
 
 I'm currently working on:
