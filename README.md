@@ -3,6 +3,7 @@
 Small Developer, Most Projects Are Made From Boredom.
 
 "im gonna finish my project this time"
+"I SWEAR IT'S ALMOST DONE"
 
 ## 🔭 Current
 
