@@ -9,7 +9,6 @@ Small Developer, Most Projects Are Made From Boredom.
 
 I'm currently working on:
 - IPMIFan, NodeJS Based Fan Controller (used on my poweredge servers)
-- Dropnode Hosting Solutions, A Game Hosting Company
 
 ## 📫 Contact
 
