@@ -1,9 +1,6 @@
-### Hey, I'm ~~Turtlx~~ ~~Turlex~~ ~~Tulx~~ Turlx. 👋
+### Hey, I'm Turlx. 👋
 
 Small Developer, Most Projects Are Made From Boredom.
-
-"im gonna finish my project this time." <br>
-"I SWEAR IT'S ALMOST DONE." <br>
 
 ## 🔭 Current
 
