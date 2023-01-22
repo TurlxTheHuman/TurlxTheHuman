@@ -10,8 +10,8 @@ I'm currently working on:
 
 ## 📫 Contact
 
-- [Instagram](https://instagram.com/tur_lx).
-- [Discord Server](https://discord.gg/VfhrGySMTB).
+- Instagram: [https://instagram.com/tur_lx](https://instagram.com/tur_lx).
+- Discord: [https://discord.gg/VfhrGySMTB](https://discord.gg/VfhrGySMTB).
 - Email: [contact@turlxthehuman.com](mailto:contact@turlxthehuman.com).
 
 ## 🌐 Socials:
