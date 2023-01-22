@@ -12,6 +12,7 @@ I'm currently working on:
 
 To contact me quickly and easily, [DM me on Instagram](https://instagram.com/tur_lx).
 You can also contact me through my discord server, [Server Invite](https://discord.gg/VfhrGySMTB).
+You can also send me an email at [contact@turlxthehuman.com](mailto:contact@turlxthehuman.com).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tur_lx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TurlxTheHuman) 
