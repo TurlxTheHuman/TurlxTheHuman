@@ -1,11 +1,12 @@
+<div align="center">
 ### Hey, I'm Turlx. 👋
 
 Small Developer, Most Projects Are Made From Boredom.
- <p align="center">
+
   <a href="https://skillicons.dev">
-    <img src='https://skillicons.dev/icons?i=arduino,linux,php,js,nodejs,html,css,vite,mongodb,mysql,nginix,vscode' />
+    <img src='https://skillicons.dev/icons?i=arduino,linux,php,js,nodejs,html,css,vite,mongodb,mysql,nginx,vscode' />
   </a>
-</p>
+
 
 ## 🔭 Current
 
@@ -27,5 +28,5 @@ I'm currently working on:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TurlxTheHuman&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TurlxTheHuman&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+</div>
 
