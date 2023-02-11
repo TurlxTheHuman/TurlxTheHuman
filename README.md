@@ -13,14 +13,14 @@
   <h2> 🔭 Current </h2>
 
 I'm currently working on:
-[Dropnode Hosting](https://dropnode.net) - A Game Server Hosting Company 
-IPMIFan - NodeJS Based Fan Controller (used on my poweredge servers)
+- [Dropnode Hosting](https://dropnode.net) - A Game Server Hosting Company 
+- IPMIFan - NodeJS Based Fan Controller (used on my poweredge servers)
 
   <h2> 📫 Contact </h2>
 
-Instagram: [https://instagram.com/tur_lx](https://instagram.com/tur_lx).
-Discord: [https://discord.gg/VfhrGySMTB](https://discord.gg/VfhrGySMTB).
-Email: [contact@turlxthehuman.com](mailto:contact@turlxthehuman.com).
+- Instagram: [https://instagram.com/tur_lx](https://instagram.com/tur_lx).
+- Discord: [https://discord.gg/VfhrGySMTB](https://discord.gg/VfhrGySMTB).
+- Email: [contact@turlxthehuman.com](mailto:contact@turlxthehuman.com).
 
   <h2> 🌐 Socials: </h2>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tur_lx)
