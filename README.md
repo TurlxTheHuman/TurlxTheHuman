@@ -1,29 +1,38 @@
+
 <div align="center">
   <h1>Hey, I'm Turlx.</h1>
-
   <p>Small Developer, Most Projects Are Made From Boredom.</p>
-
   <p>
     <a href="https://skillicons.dev">
       <img src='https://skillicons.dev/icons?i=arduino,linux,php,js,nodejs,html,css,vite,mongodb,mysql,nginx,vscode' />
     </a>
   </p>
-
-
-  <h2> 🔭 Current </h2>
+  
+  <h2>🔭 Current</h2>
 
 I'm currently working on:
-- [Dropnode Hosting](https://dropnode.net) - A Game Server Hosting Company 
-- IPMIFan - NodeJS Based Fan Controller (used on my poweredge servers)
+  <li><a href="https://dropnode.net">Dropnode Hosting</a> - A Game Server Hosting Company </li>
+<li>IPMIFan - NodeJS Based Fan Controller (used on my poweredge servers)</li>
 
   <h2> 📫 Contact </h2>
+  <li>Instagram: <a href="https://instagram.com/tur_lx">https://instagram.com/tur_lx</a>.</li>
+  <li>Discord: <a href="https://discord.gg/VfhrGySMTB">https://discord.gg/VfhrGySMTB</a>.</li>
+  <li>Email: <a href="contact@turlxthehuman.com">contact@turlxthehuman.com</a>.</li>
 
-- Instagram: [https://instagram.com/tur_lx](https://instagram.com/tur_lx).
-- Discord: [https://discord.gg/VfhrGySMTB](https://discord.gg/VfhrGySMTB).
-- Email: [contact@turlxthehuman.com](mailto:contact@turlxthehuman.com).
 
-  <h2> 🌐 Socials: </h2>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tur_lx)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TurlxTheHuman) 
+  <h2>📈 Stats: </h2>
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turlxthehuman&theme=default">
 </div>
+
+
+<div style="display: flex;">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=turlxthehuman&theme=default" style="padding: 2px">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=turlxthehuman&theme=default" style="padding: 2px">
+
+</div>
+</div>
+
 
