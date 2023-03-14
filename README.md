@@ -4,7 +4,7 @@
   <p>Small Developer, Most Projects Are Made From Boredom.</p>
   <p>
     <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=arduino,linux,php,js,nodejs,html,css,vite,mongodb,mysql,nginx,vscode' />
+      <img src='https://skillicons.dev/icons?i=linux,js,nodejs,html,css,vite,mongodb,mysql,nginx,vscode' />
     </a>
   </p>
   
