@@ -8,12 +8,6 @@
     </a>
   </p>
   
-  <h2>🔭 Current</h2>
-
-I'm currently working on:
-  <li><a href="https://dropnode.net">Dropnode Hosting</a> - A Game Server Hosting Company </li>
-<li>IPMIFan - NodeJS Based Fan Controller (used on my poweredge servers)</li>
-
   <h2> 📫 Contact </h2>
   <li>Instagram: <a href="https://instagram.com/tur_lx">https://instagram.com/tur_lx</a>.</li>
   <li>Discord: <a href="https://discord.gg/VfhrGySMTB">https://discord.gg/VfhrGySMTB</a>.</li>
